@@ -63,7 +63,7 @@ To set up and run this project locally, follow these steps:
 1.  **Clone the repository**:
 
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/sandip-svg/querymind-backend
     cd querymind-backend # Assuming your repo name reflects the project name
     ```
 
